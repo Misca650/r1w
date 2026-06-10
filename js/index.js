@@ -1,7 +1,7 @@
 
 import { config } from './config/user.js';
 // import { initializeApp } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-app.js";
-import { firebaseConfig } from './config/firebaseConfig.js';
+// import { firebaseConfig } from './config/firebaseConfig.js';
 
 // import {
 //     getFirestore,
