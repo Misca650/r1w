@@ -1,23 +1,9 @@
 export const config = {
 
-    conutMEMBERS: 16,
+    conutMEMBERS: 14,
 
     allUsers: {
         THEBOSS: [
-            { 
-                name: "Cham Svenxbzy", 
-                image: "https://cdn.discordapp.com/attachments/1430828076023021568/1486639536548347994/ChatGPT_Image_Mar_26_2026_03_14_18_PM.png?ex=6a2a6e75&is=6a291cf5&hm=aea3420e7873d6f35de608ab1f6ca62443c4b7f3e77d19d4e055e614eea106ef&", 
-                instagramURL: "https://discord.gg/rank1", 
-                color: "#ff9100ff", 
-                icon: "fas fa-crown" 
-            },
-            { 
-                name: "J4ys1x", 
-                image: "https://cdn.discordapp.com/attachments/1430828076023021568/1486639536548347994/ChatGPT_Image_Mar_26_2026_03_14_18_PM.png?ex=6a2a6e75&is=6a291cf5&hm=aea3420e7873d6f35de608ab1f6ca62443c4b7f3e77d19d4e055e614eea106ef&", 
-                instagramURL: "https://discord.gg/rank1", 
-                color: "#ff9100ff", 
-                icon: "fas fa-crown" 
-            },
             { 
                 name: "Taka Rexel", 
                 image: "https://cdn.discordapp.com/attachments/1430828076023021568/1486639536548347994/ChatGPT_Image_Mar_26_2026_03_14_18_PM.png?ex=6a2a6e75&is=6a291cf5&hm=aea3420e7873d6f35de608ab1f6ca62443c4b7f3e77d19d4e055e614eea106ef&", 
